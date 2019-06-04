@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 03 23:32:00 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016b-1df7-fcb9-0000165ee3b0 
+on database directory /Volumes/Install/SparkSql/Scala/zynn-app-service-module-reduce/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@27ab3a85 
+Loaded from file:/Volumes/Install/apache-repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Volumes/Install/SparkSql/Scala/zynn-app-service-module-reduce
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

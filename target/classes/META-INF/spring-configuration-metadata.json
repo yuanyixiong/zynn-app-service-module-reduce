@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zynn.app.service.module.reduce.config.CommonProperties",
+      "name": "common",
+      "type": "com.zynn.app.service.module.reduce.config.CommonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zynn.app.service.module.reduce.config.CommonProperties",
+      "name": "common.spark-task",
+      "type": "com.zynn.app.service.module.reduce.config.spark.SparkTaskProperties"
+    }
+  ]
+}
