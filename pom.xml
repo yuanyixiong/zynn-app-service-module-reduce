@@ -25,7 +25,7 @@
 
         <encoding>UTF-8</encoding>
         <scala.version>2.11.7</scala.version>
-        <hadoop.version>2.7.3</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <scalatra.version>2.3.0.RC3</scalatra.version>
         <scalatra.scala.version>2.11</scalatra.scala.version>
     </properties>
